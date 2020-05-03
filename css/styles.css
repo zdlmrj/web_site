@@ -24,7 +24,6 @@ h1{
   font-size: 562.5%;
   margin: 50px auto 0 auto;
   color: #e43f5a;
-  font-family: 'Acme', sans-serif;
 }
 
 p{
@@ -73,6 +72,7 @@ h3{
   left: 20%;
   top: 5%;
   max-width: 10%;
+  height: auto;
 }
 .cloud11{
   height: 5.3125em;
@@ -81,6 +81,7 @@ h3{
   left: 1%;
   top: 5%;
   max-width: 10%;
+  height: auto;
 }
 
 .cloud14{
@@ -90,6 +91,7 @@ h3{
   right: 15%;
   top: 5%;
   max-width: 10%;
+  height: auto;
 }
 
 .cloud21 {
@@ -98,6 +100,7 @@ h3{
   position: absolute;
   left: 12%;
   max-width: 10%;
+  height: auto;
 }
 
 .cloud23 {
@@ -106,6 +109,7 @@ h3{
   position: absolute;
   right: 25%;
   max-width: 10%;
+  height: auto;
 }
 
 .cloud24 {
@@ -114,10 +118,14 @@ h3{
   position: absolute;
   right: 1%;
   max-width: 10%;
+  height: auto;
 }
 
 .robot{
+  width: 22%;
   height: 550px;
+  max-width: 90%;
+  height: auto;
 }
 
 .skills1{
@@ -133,8 +141,8 @@ h3{
 }
 
 .my_photo{
-  height: 300px;
-  width: 280px;
+  height: 35%;
+  width: 30%;
   border-radius: 100%;
 }
 
