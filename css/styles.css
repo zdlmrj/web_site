@@ -2,6 +2,7 @@
   padding-top: 100px;
   background-color: #bbded6;
   position: relative;
+  height: 100%;
 }
 
 body{
@@ -21,13 +22,13 @@ body{
 }
 
 h1{
-  font-size: 562.5%;
+  font-size: 5vw;
   margin: 50px auto 0 auto;
   color: #e43f5a;
 }
 
 p{
-  font-size: 156.25%;
+  font-size: 1.5vw;
 }
 
 a{
