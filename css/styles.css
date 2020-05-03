@@ -69,44 +69,44 @@ h3{
   height: 85px;
   width: 210px;
   position: absolute;
-  left: 400px;
-  top: 50px;
+  left: 25em;
+  top: 3.125em;
 }
 .cloud11{
   height: 85px;
   width: 210px;
   position: absolute;
-  left: 10px;
-  top: 50px;
+  left: 1em;
+  top: 3.125em;
 }
 
 .cloud14{
   height: 85px;
   width: 210px;
   position: absolute;
-  right: 250px;
-  top: 50px;
+  right: 15.625em;
+  top: 3.125em;
 }
 
 .cloud21 {
   height: 85px;
   width: 210px;
   position: absolute;
-  left: 200px
+  left: 12.5em;
 }
 
 .cloud23 {
   height: 85px;
   width: 210px;
   position: absolute;
-  right: 450px
+  right: 28.125em;
 }
 
 .cloud24 {
   height: 85px;
   width: 210px;
   position: absolute;
-  right: 20px
+  right: 1em
 }
 
 .robot{
