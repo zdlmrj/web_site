@@ -3,6 +3,7 @@
   background-color: #bbded6;
   position: relative;
 }
+
 body{
   margin: 0px;
   text-align: center;
@@ -69,44 +70,50 @@ h3{
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  left: 25em;
-  top: 3.125em;
+  left: 20%;
+  top: 5%;
+  max-width: 10%;
 }
 .cloud11{
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  left: 1em;
-  top: 3.125em;
+  left: 1%;
+  top: 5%;
+  max-width: 10%;
 }
 
 .cloud14{
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  right: 15.625em;
-  top: 3.125em;
+  right: 15%;
+  top: 5%;
+  max-width: 10%;
 }
 
 .cloud21 {
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  left: 12.5em;
+  left: 12%;
+  max-width: 10%;
 }
 
 .cloud23 {
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  right: 28.125em;
+  right: 25%;
+  max-width: 10%;
 }
 
 .cloud24 {
   height: 5.3125em;
   width: 13.125em;
   position: absolute;
-  right: 1em
+  right: 1%;
+  max-width: 10%;
 }
 
 .robot{
